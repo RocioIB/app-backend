@@ -10,7 +10,7 @@ La aplicación responde a una petición HTTP mostrando:
 
 
 
-\- Nombre del servidor (Hostname): Chio-Iturriaga
+\- Nombre del servidor (Hostname): Se obtiene dinámicamente usando el módulo OS de Node.js.
 
 \- Hora actual del sistema
 
